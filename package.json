@@ -10,9 +10,16 @@
   "bin": {
     "database_backup": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KlyntonREP/backup_cli_tool"
+  },
+  "bugs": {
+    "url": "https://github.com/KlyntonREP/backup_cli_tool/issues"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Klynton",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
